@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rehan Masood</h1>
-<h3 align="center">Full Stack Web Developer in Progress 🚀</h3>
+<h3 align="center">A Passionate Full Stack Web Developer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Django+Developer+Intern+%40+WeConnect-Innovation;Learning+Python+%7C+Django+%7C+MySQL;Building+Full+Stack+Web+%26+Mobile+Apps;Exploring+AI+%2F+ML+Basics" alt="Typing SVG" />
