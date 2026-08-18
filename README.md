@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Web Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Django+Developer+Intern+%40+WeConnect-Innovation;Learning+Python+%7C+Django+%7C+MySQL;Building+Full+Stack+Web+%26+Mobile+Apps;Exploring+AI+%2F+ML+Basics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Flask+Developer+Intern+%40+WeConnect-Innovation;Learning+Python+%7C+Flask+%7C+MySQL;Building+Full+Stack+Web+%26+Mobile+Apps;Exploring+AI+%2F+ML+Basics" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,15 +12,20 @@
   <a href="mailto:jrehan590@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://profile.indeed.com" target="_blank">
+    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61593200861505" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-
 - 🎓 BS Software Engineering student @ COMSATS University Islamabad (Vehari Campus)
-- 💼 Currently a **Django Developer Intern** @ WeConnect-Innovation
-- 🌱 Learning **Django, MySQL, and AI/ML fundamentals**
+- 💼 Currently a **Flask Developer Intern** @ WeConnect-Innovation
+- 🌱 Learning **Flask, MySQL, and AI/ML fundamentals**
 - 📱 Built several **Flutter/Dart mobile apps**
 - 🌐 Built websites using **HTML, CSS, JavaScript, and PHP**
 - 🛠️ Building small full stack projects while I learn
@@ -34,7 +39,7 @@
 **Backend & Languages**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -63,7 +68,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
 <img height="165" src="https://github-readme-stats-rehan-web.vercel.app/api?username=Rehan-Masood&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-stats-rehan-web.vercel.app/api/top-langs/?username=Rehan-Masood&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
@@ -76,7 +80,6 @@
 ---
 
 ### 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rehan-Masood/Rehan-Masood/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
@@ -84,7 +87,6 @@
 ---
 
 ### 📈 Profile Views
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rehan-Masood&color=00d4ff&style=for-the-badge" alt="Profile views"/>
 </p>
